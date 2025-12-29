@@ -94,11 +94,17 @@ def create_epub(md_file, epub_file):
     with open('epub_temp/OEBPS/toc.ncx', 'w', encoding='utf-8') as f:
         f.write(toc_ncx)
 
-    # Create visible HTML table of contents page
+    # Create visible HTML table of contents page with numbering
     toc_html_entries = []
-    for entry in toc_entries:
+    section_counter = 0
+    for i, entry in enumerate(toc_entries):
         indent = '  ' * (entry['level'] - 1)
-        toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{entry["text"]}</a></li>')
+        # Add section numbers for main sections (level 2 headers)
+        if entry['level'] == 2:
+            section_counter += 1
+            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{section_counter}. {entry["text"]}</a></li>')
+        else:
+            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{entry["text"]}</a></li>')
 
     toc_html = f'''<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
