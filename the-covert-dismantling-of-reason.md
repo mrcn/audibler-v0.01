@@ -1350,6 +1350,305 @@ This framework turns the analysis from a pessimistic diagnosis into an active re
 
 ---
 
+## Contemporary Rationalist Movements and Their Discontents
+
+This section examines how the patterns described in this document manifest in contemporary rationalist movements, particularly the "new rationalists" of Silicon Valley and the post-rationalist turn. Understanding these modern developments helps us see whether the cycle is being broken or merely repeated.
+
+### The Modern Rationalist Project: Hanson's Framing
+
+The user's question references Robin Hanson's essay **"[Rationality: Quit, All-in, or Bust](https://www.overcomingbias.com/p/rationality-quit-all-in-or-bust)"** (Overcoming Bias, December 27, 2025). Hanson argues that the modernist project—beginning around 1900—sought to remake culture through abstract reason, but because it ignored the adaptive wisdom embedded in tradition, it produced maladaptive cultural drift.
+
+**Hanson's three possible futures:**
+
+1. **Bust**: Civilizational collapse due to cultural maladaptation
+2. **Quit**: Abandon rationality and return to tradition, accepting war and poverty
+3. **All-in**: Use rationality to choose adaptive cultural elements (perhaps via futarchy)
+
+Hanson writes:
+
+> "Around roughly 1900, elites suddenly began a big new 'modernism' project to try to remake culture via abstract reason. Abstract reason was then high status... The one thing such elites now agreed most on was that they no longer wanted to respect inherited traditions. Young adults kept together in schools created youth cultures, which began youth movements to change culture, movements justified in terms of abstract reasons, and which consistently won against older opponents."
+
+**But the crucial problem:**
+
+> "They mainly based their abstract reasoning on strong moral intuitions, and were largely uninterested in reflecting on the cultural processes that created such intuitions."
+
+In other words, the "reason" they employed was not a careful, evidence-based process, but a shallow rationalization of pre-existing feelings—exactly the "vibe" or "simulacrum" mentioned in the earlier analysis.
+
+### The Provocative Counter-Claim: Modernism as Simulacrum
+
+The reply that sparked this investigation pushes back on Hanson's framing:
+
+> "But modernism isn't about reason at all! That's modernity! -Ism implies a simulacrum. A vibe. A tradition of 'looks like reason' specifically to replace a process of reason that was being actively dismantled, most overtly by the Italian Futurists and Fascists, more covertly by Pragmatists and Progressives."
+
+**The claim:** What we call "modernism" (or "rationalism" as an ideology) is not genuine reason but a counterfeit—a simulacrum that mimics the surface of reason while actively undermining the real thing.
+
+**The suggestion:** Movements like Italian Futurism, Fascism, Pragmatism, and Progressivism all contributed to this erosion, some overtly and some covertly.
+
+This section examines evidence for and against this claim in contemporary contexts.
+
+### The "New Rationalists" as Latest Iteration
+
+The piece **"[Overcoming Bias: Why Not?](https://www.thenewatlantis.com/futurisms/overcoming-bias-why-not)"** (The New Atlantis, 2015) directly critiques the "new rationalists"—people like Robin Hanson and Eliezer Yudkowsky, who run blogs such as Overcoming Bias and Less Wrong and advocate for "perfecting" rationality.
+
+**The critique:**
+
+> "The Vulcans are but the latest members of an elaborately extended tradition of anti-traditionalist thought going back at least to the French Enlightenment. This inheritance includes revolutionary ambitions, now far higher than most of their forebears, from the rational restructuring of society in the short term to the abolition of man in the only-slightly-less-short term."
+
+**The pattern identified:**
+
+The new rationalists exhibit a "preening but otherwise eerily emotionless tone" and treat reason as if they are the first to discover it. Their "Twelve Virtues of Rationality" includes injunctions like:
+
+- "That which can be destroyed by the truth should be"
+- "Be faithless to your cause and betray it to a stronger enemy"
+
+**The argument:** This is not reason but a caricature—a simulacrum that discards the accumulated wisdom of tradition and opens the door to radical, destabilizing change.
+
+**Historical parallel:** Just as the French Enlightenment's abstract reason led to the Terror, so too could today's rationalist projects lead to similar excesses.
+
+### The Post-Rationalist Turn: When the Simulacrum Collapses
+
+The New Atlantis article **"[Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)"** (2023, by Tara Isabella Burton) explores a fascinating phenomenon: Silicon Valley's once-hyper-rationalist culture is now embracing spirituality, magic, and "woo."
+
+**The trajectory:**
+
+> "The rationalist universe soon expanded beyond the blogs themselves... But for many, rationality culture had at least initially offered a thrilling sense of purpose: a chance to be part of a group of brilliant, committed young heroes capable of working together to save all humanity... But he soon grew disillusioned with the utilitarianism of rationality culture, which focused so intently on quantifiable markers of success... that it seemed to leave out something profound about the other side of human life."
+
+**What this reveals:**
+
+Former rationalists and effective altruists grew disillusioned with the cold utilitarianism of their communities and began seeking meaning in:
+- Intuition and ritual
+- Occult practices
+- Spirituality and mysticism
+- Explicitly non-rational frameworks
+
+**The significance:** This shift highlights the emptiness of a purely instrumental, "rational" framework that fails to account for human needs for beauty, community, and transcendence.
+
+**Supporting the simulacrum thesis:** The fact that many rationalists are now turning to explicitly irrational practices underscores the claim that what passed for reason was often just a hollow shell—a simulacrum that could not sustain itself.
+
+**The dialectic:**
+1. **Thesis**: Traditional culture (embedded wisdom + superstition)
+2. **Antithesis**: Rationalist culture (instrumental reason + emotional void)
+3. **Synthesis?**: Post-rationalism (???)
+
+Whether post-rationalism represents genuine synthesis or mere reaction remains unclear.
+
+### Historical Roots: Russell on the Revolt Against Reason
+
+Bertrand Russell's 1935 essay **"[The Revolt Against Reason](https://www.theatlantic.com/magazine/archive/1935/02/the-revolt-against-reason/652470/)"** (The Atlantic) provides crucial historical context.
+
+**Russell examines how:**
+
+19th-century thinkers (Fichte, Carlyle, Nietzsche) exalted:
+- Will over reason
+- Power over happiness
+- Aristocracy over democracy
+
+These ideas later found political expression in Fascism and Nazism.
+
+**Russell's key observation:**
+
+> "The philosophy which has been distinctive of Germany begins with Kant, and begins as a reaction against Hume... More important even than Kant, from our point of view, was his immediate successor Fichte, who, passing over from philosophy to politics, inaugurated the movement which has developed into National Socialism."
+
+**The pattern:** Irrationalists claimed to be advancing a higher form of reason (or "practical reason"), but in reality they were rejecting the impartial, empirical search for truth.
+
+**How distorted "reason" justifies tyranny:**
+
+Russell shows how Kant's "practical reason" can be twisted to justify prejudice and power. The Italian Futurists, who glorified speed, violence, and technological progress while denigrating tradition, exemplify a movement that dressed irrational impulses in the language of modernity and reason.
+
+**Connection to current analysis:**
+
+Russell identified in 1935 what we're seeing repeated: movements that use the *language* of reason to advance fundamentally anti-rational agendas.
+
+**Key quote:**
+
+> "The cult of unreason... represents private passions, making strife inevitable."
+
+### Pragmatists and Progressives: Covert Dismantlers?
+
+The claim that Pragmatists and Progressives acted as "covert" dismantlers of reason is more contentious than the Fascist/Futurist examples, but it echoes critiques from thinkers like Christopher Lasch and Alasdair MacIntyre.
+
+**The case for Pragmatism's complicity:**
+
+1. **Truth as utility:** Pragmatism's emphasis on "what works" rather than absolute truth can undermine the notion of objective reason
+2. **Rhetorical vulnerability:** "What works" easily becomes "what benefits my coalition"
+3. **Institutional capture:** Even if Peirce and Dewey were pro-inquiry in philosophy, their ideas in practice often served managerial interests
+
+**The case for Progressivism's complicity:**
+
+1. **Technocratic faith:** Belief in social engineering and expert solutions
+2. **Dismissal of tradition:** Systematic devaluation of inherited cultural knowledge
+3. **Reduction of politics:** Politics becomes management, contestation becomes optimization
+4. **Appearance vs. reality:** Maintains forms of democratic deliberation while concentrating power
+
+**Both movements:**
+- Outwardly championed reason and science
+- May have inadvertently contributed to erosion of genuine rational discourse
+- Reduced truth to utility or ideology
+- Created systems that look rational but function differently
+
+**The "covert" element:**
+
+Unlike Futurists who explicitly rejected tradition and reason, Pragmatists and Progressives claimed to be *improving* reason—making it more scientific, practical, democratic. This makes their role harder to identify and resist.
+
+**Parallel to education analysis:**
+
+Just as Dewey's "learning by doing" sounds like authentic education while functioning as institutional control, Pragmatist epistemology sounds like sophisticated truth-seeking while potentially enabling relativism.
+
+### Towards Balance: The Techno-Humanist Response
+
+The Roots of Progress essay **"[The Present Crisis](https://newsletter.rootsofprogress.org/p/the-present-crisis)"** (2024) offers a defense of progress and a call for "techno-humanism" that values both reason and human flourishing.
+
+**The approach:**
+- Optimistic about technology
+- Acknowledges current pessimism
+- Seeks to restore a culture of progress
+- Aims for human-centered rationality
+
+**Relevance:** While this piece doesn't directly address the simulacrum argument, it illustrates an ongoing effort to reclaim a more grounded, human-centered rationality that learns from the mistakes of modernist overreach.
+
+**The question:** Can we build a rationality that is:
+- Genuinely truth-seeking (not just vibe)
+- Democratically accountable (not just technocratic)
+- Humanly sustainable (not emotionally void)
+- Culturally adaptive (not blindly traditional or blindly progressive)
+
+### Synthesis: The Pattern Across Time
+
+The contemporary rationalist movements reveal the same pattern identified throughout this document:
+
+**Historical pattern (1900-2000):**
+1. Enlightenment reason works →
+2. Modernist simulacrum replaces it →
+3. Forms persist, substance removed →
+4. Institutions claim rationality while serving power
+
+**Contemporary pattern (2000-2025):**
+1. Internet rationalists try to revive reason →
+2. Create new simulacrum (quantified self, prediction markets, EA) →
+3. Forms persist (blogs, forecasts, calculations), substance questioned →
+4. Post-rationalists abandon the project →
+5. Turn to explicitly irrational alternatives
+
+**What this suggests:**
+
+The problem is not merely historical. Even explicit, self-aware attempts to rebuild rationality fall into the same traps:
+- Mistaking quantification for understanding
+- Mistaking optimization for wisdom
+- Mistaking calculation for judgment
+- Mistaking process for substance
+
+**The meta-question:**
+
+If even people explicitly trying to overcome bias and perfect rationality end up creating new simulacra, what hope is there for reconstruction?
+
+**Possible answers:**
+
+1. **Pessimistic**: None. The pattern is inevitable. We're stuck.
+2. **Optimistic**: We're learning. Each iteration gets closer.
+3. **Dialectical**: The post-rationalist turn is necessary critique; synthesis comes next.
+4. **Structural**: Need different institutions, not just different ideas.
+
+### Key Sources for Contemporary Analysis
+
+**On modern rationalism:**
+- Robin Hanson, "[Rationality: Quit, All-in, or Bust](https://www.overcomingbias.com/p/rationality-quit-all-in-or-bust)" (Overcoming Bias, 2025)
+- "[Overcoming Bias: Why Not?](https://www.thenewatlantis.com/futurisms/overcoming-bias-why-not)" (The New Atlantis, 2015)
+- Tara Isabella Burton, "[Rational Magic](https://www.thenewatlantis.com/publications/rational-magic)" (The New Atlantis, 2023)
+
+**On historical context:**
+- Bertrand Russell, "[The Revolt Against Reason](https://www.theatlantic.com/magazine/archive/1935/02/the-revolt-against-reason/652470/)" (The Atlantic, 1935)
+
+**On reconstruction:**
+- "[The Present Crisis](https://newsletter.rootsofprogress.org/p/the-present-crisis)" (Roots of Progress, 2024)
+
+### Questions for Further Investigation
+
+1. **Is post-rationalism a genuine advance or mere reaction?**
+   - Does it recover something important (intuition, meaning, community)?
+   - Or does it simply abandon the project when it gets difficult?
+
+2. **Can rationalist communities escape institutional capture?**
+   - LessWrong/EA accepted mainstream funding and status
+   - Did this compromise their independence?
+   - Is there a way to maintain funding without capture?
+
+3. **What would distinguish real reason from simulacrum in practice?**
+   - Concrete institutional features?
+   - Cultural markers?
+   - Epistemic practices?
+   - How do we test the difference?
+
+4. **Is the French Revolution → Terror pattern inevitable?**
+   - Does every attempt to remake society via reason lead to excess?
+   - Or were there contingent features that could have been different?
+   - Are there successful examples of reason-based reform?
+
+5. **What is the relationship between rationality and meaning?**
+   - Must instrumental rationality leave an emotional/spiritual void?
+   - Can reason encompass beauty, purpose, transcendence?
+   - Or is some irreducible tension inevitable?
+
+### Implications for This Document's Thesis
+
+The contemporary rationalist movements provide a live test case for the document's central claims:
+
+**Supporting evidence:**
+- Even explicit rationalists fell into simulacrum patterns
+- The forms (blogs, forecasts, calculations) persisted while substance (genuine truth-seeking) was questioned
+- The "selling out" pattern Vassar described in historical rationalists repeated
+- The post-rationalist turn suggests the project was unsustainable
+
+**Complicating evidence:**
+- These communities did produce some genuine innovations (prediction markets, forecasting, AI safety research)
+- Some members maintained independence and made real contributions
+- The self-critique (post-rationalism) shows meta-awareness historical movements lacked
+- The very fact we can analyze this pattern suggests some capacity for reasoning remains
+
+**The central tension:**
+
+If the capacity for Level 4 literacy has been systematically removed, how can we:
+- Recognize the pattern?
+- Analyze it critically?
+- Propose alternatives?
+- Distinguish real from counterfeit reason?
+
+**Possible resolutions:**
+
+1. **Small pockets thesis**: Vassar's "30 righteous men"—enough capacity remains in small groups
+2. **Partial degradation**: Capacity reduced but not eliminated; still functions in some domains
+3. **External perspective**: Understanding comes from outside the system (other language groups, historical texts)
+4. **Bootstrapping**: Even degraded capacity can recognize degradation and begin reconstruction
+
+### The Contemporary Challenge
+
+The modern rationalist movements face the same challenge this document identifies:
+
+**How to:**
+- Rebuild genuine reasoning capacity
+- In a world where institutions reward simulacra
+- With populations trained in deference not evaluation
+- While needing resources that create capture
+- Under time pressure from various risks
+
+**The additional challenge:**
+
+They're doing this while:
+- Being aware of the historical pattern
+- Explicitly trying to avoid it
+- And still falling into it anyway
+
+**What this suggests:**
+
+Good intentions and explicit awareness are not sufficient. The problem is structural, not merely ideological.
+
+**The question remains:**
+
+Is reconstruction possible? Or are we, as Vassar suggested, "dead in the water"?
+
+The contemporary rationalist movements offer both hope (people are trying) and warning (even self-aware attempts fail).
+
+---
+
 ## Conclusion
 
 This has been an exploration of how independent reasoning was systematically removed from Western society, with particular focus on how this was done **in the name of reason itself**.
