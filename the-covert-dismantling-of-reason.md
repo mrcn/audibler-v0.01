@@ -3,6 +3,56 @@
 
 ---
 
+## How to Read This Document
+
+### Document Structure
+
+This is a comprehensive analysis combining:
+- **Main Analysis** - The core argument about modernity vs. modernism (sections 1-15)
+- **Additional Context** - Key thinkers, frameworks, and contemporary movements (sections 16-20)
+- **Bibliography** - Organized by theme with letters A-J
+- **Reading Paths** - Numbered paths 1-6 for different interests
+
+### Navigation Guide
+
+**Table of Contents (TOC)**
+- Your EPUB reader has a TOC button/menu - tap it to jump between sections
+- The visible TOC page (this book's first page) shows all major sections
+- Section numbers in the TOC help you track where you are
+
+**Bibliography Categories (Letters A-J)**
+- **A** = Modernity vs. Modernism (start here)
+- **B** = Rationalization & Bureaucracy
+- **C** = Instrumental Rationality Critique
+- **D** = Futurism & Politics
+- **E** = Pragmatism (primary sources)
+- **F** = Technocracy
+- **G** = Education Critique
+- **H** = Epistemology
+- **I** = Postmodern Critiques
+- **J** = Coordination Failures
+
+**Reading Paths (Numbers 1-6)**
+- **Path 1** = Art/Culture focus
+- **Path 2** = Political Institutions
+- **Path 3** = Philosophy
+- **Path 4** = Instrumental Rationality
+- **Path 5** = Historical/Causal
+- **Path 6** = Epistemology
+
+### Recommended Reading Orders
+
+**Quick Overview (30 min)**
+- Introduction → Central Distinction → The Two Forms of Dismantling → Conclusion
+
+**Deep Dive (2-3 hours)**
+- Read sections 1-15 in order → Pick one Reading Path → Explore relevant Bibliography category
+
+**Research Mode**
+- Start with Bibliography category that matches your interest → Follow Reading Path → Cross-reference main text
+
+---
+
 ## Introduction
 
 This document traces a conversation exploring how independent reasoning was systematically removed from Western society, with particular focus on the role of Pragmatist philosophers (especially John Dewey) in creating a simulacrum of reason while destroying its substance.
