@@ -99,12 +99,13 @@ def create_epub(md_file, epub_file):
     section_counter = 0
     for i, entry in enumerate(toc_entries):
         indent = '  ' * (entry['level'] - 1)
+        escaped_text = escape_xml(entry["text"])
         # Add section numbers for main sections (level 2 headers)
         if entry['level'] == 2:
             section_counter += 1
-            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{section_counter}. {entry["text"]}</a></li>')
+            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{section_counter}. {escaped_text}</a></li>')
         else:
-            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{entry["text"]}</a></li>')
+            toc_html_entries.append(f'{indent}<li><a href="content.html#{entry["id"]}">{escaped_text}</a></li>')
 
     toc_html = f'''<?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "http://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
