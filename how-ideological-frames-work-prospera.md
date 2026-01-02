@@ -675,9 +675,11 @@ Having identified the limitations of pure frame analysis, let's examine how othe
 
 [Goffman's Frame Analysis (1974)](https://onlinelibrary.wiley.com/doi/full/10.1002/symb.1201) didn't study abstract ideology—it examined concrete social situations. His method: "take a large number of illustrations, variously obtained, and try to get a formulation that is compatible with all of them."
 
-**His examples were deliberately varied**: card games, theater, news clippings, gynecological examinations, nudist colonies, children playing "doctor," ballroom dancing, servants.
+**His examples were deliberately varied**: card games, theater performances, news clippings, gynecological examinations, nudist colonies, children playing "doctor," ballroom dancing, servants in wealthy homes. He drew from novels, memoirs, journalism, ethnography—anywhere he could find situations where the same action meant different things in different contexts.
 
 The key insight: **the same physical activity gets radically different meanings depending on frame**.
+
+For example:
 
 - Strangers holding each other closely and moving rhythmically = "dance" frame (acceptable)
 - Same action without the dance frame = sexual harassment
@@ -708,10 +710,13 @@ What would Goffman notice about Próspera? **Multiple framings of the same actio
 
 Key concept: [**Observation is "a dual operation of drawing a distinction and indicating one of the distinct parts as the currently relevant one"**](https://www.leydesdorff.net/kybernetes/observer.pdf)
 
-**Applied examples:**
-- Instagram: Users curate profiles while being concerned with how they are seen (second-order: observing how others observe you)
-- Market value: Price reflects not what something is "worth" but what observers think other observers think it's worth
-- [Participation studies](https://www.tandfonline.com/doi/full/10.1080/13563475.2019.1627185): Reanalyzed spatial planning cases through Luhmann's lens, showing how "participation" looked different from participants' vs. planners' observation systems
+**Applied examples from contemporary research:**
+
+- **Social Media (Instagram)**: Users don't just present themselves—they curate profiles while constantly observing how others are observing them. You're not posting a photo; you're posting while imagining how your followers will interpret it, which changes what you post. This is second-order observation: observing how others observe you. The content is determined not by "what you want to show" but by "what you think they want to see you showing."
+
+- **Market Pricing**: Stock prices don't reflect what a company is "worth" in some objective sense. They reflect what traders think other traders think it's worth. You're not observing the company—you're observing how other observers are observing it. This is why markets can be "irrational" even when all participants are individually rational: they're stuck in recursive loops of observing observations.
+
+- **Urban Planning Participation**: [Research reanalyzing spatial planning cases](https://www.tandfonline.com/doi/full/10.1080/13563475.2019.1627185) through Luhmann's lens showed that "participation" meant completely different things to planners vs. community members. Planners observed participation through a "process/outcomes" distinction (did we follow the procedure? did we get consensus?). Community members observed through a "power/powerlessness" distinction (do our concerns actually change anything?). Both groups were at the same meetings, but operating in different observation systems that couldn't see each other.
 
 #### Applied to Próspera
 
@@ -739,9 +744,13 @@ This is why "just show them the facts" doesn't work. The facts get observed thro
 
 [Ferguson's 1990 study of the Thaba-Tseka Development Project in Lesotho](https://en.wikipedia.org/wiki/The_Anti-Politics_Machine) is probably the most directly relevant precedent for analyzing Próspera.
 
+**Background**: Lesotho is a small country entirely surrounded by South Africa. From 1975-1984, the Canadian International Development Agency (CIDA) and the World Bank funded a major "integrated rural development" project in Thaba-Tseka, a mountainous region. The project aimed to transform the economy through livestock improvements, infrastructure, and agricultural modernization.
+
 **What Ferguson Found:**
 
 Development agencies described Lesotho as "isolated," "non-market," and "traditional"—a proper target for aid intervention.
+
+The development reports portrayed Lesotho as if it existed in a bubble, untouched by the modern economy, where subsistence farmers lived much as their ancestors had. The "problem" was lack of development; the "solution" was technical intervention.
 
 **What they ignored**: Lesotho's actual role as a labor reserve for South African mines. Its history as a grain-exporting region. Its entrapment in the regional apartheid economy.
 
@@ -776,7 +785,11 @@ The "anti-politics machine" doesn't fail—**it does exactly what it's designed 
 
 #### The Framework
 
-[Aihwa Ong's concept of "neoliberalism as exception"](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/abs/political-economy-of-special-economic-zones/CE09F95681408037426D2F4D210BEEA5) examines how "Asian governments have selectively adopted neoliberal forms in creating economic zones" through **"zoning technologies"** that carve special spaces to regulate groups in relation to market forces.
+Aihwa Ong is an anthropologist who studied how Asian countries adopted neoliberal economic policies not uniformly, but selectively—creating special zones with different rules. Her key concept is **"graduated sovereignty"**: the state doesn't have uniform power everywhere; it creates zones of exception where different rules apply.
+
+[Ong's concept of "neoliberalism as exception"](https://www.cambridge.org/core/journals/journal-of-institutional-economics/article/abs/political-economy-of-special-economic-zones/CE09F95681408037426D2F4D210BEEA5) examines how "Asian governments have selectively adopted neoliberal forms in creating economic zones" through **"zoning technologies"** that carve special spaces to regulate groups in relation to market forces.
+
+**Her original examples**: Chinese Special Economic Zones in the 1980s-90s (Shenzhen, etc.) where capitalist markets operated while the rest of China remained socialist. Malaysia's Multimedia Super Corridor creating tech zones with different labor laws. Singapore's selective citizenship policies creating tiers of rights based on economic value.
 
 Recent scholarship on [Special Economic Zone (SEZ) urbanism](https://www.sciencedirect.com/science/article/abs/pii/S0016718525002039) conceptualizes it as "a multi-scalar governance mechanism that integrates industrial, financial, and real estate capital within a single exceptional institutional framework."
 
@@ -804,13 +817,21 @@ Ong's framework reveals: this isn't just about Honduras. It's about whether **pr
 
 #### The Concepts Applied to Development
 
-[Bourdieu's concept of symbolic violence](https://scholarworks.wmich.edu/jssw/vol44/iss4/6/) provides "a missing link between subjective experiences and invisibilized forms of structural violence."
+Pierre Bourdieu was a French sociologist who studied how power operates not just through force or law, but through making hierarchies seem natural and legitimate. His key concepts:
+
+**Habitus**: "deeply ingrained habits, skills, and dispositions that individuals acquire through their life experiences" shaped by social background. It's the set of unconscious dispositions—how you stand, speak, what feels natural, what seems obvious—that you absorb from your social environment. A working-class kid and a upper-class kid in the same room will have different habitus: different comfort levels with authority, different assumptions about what's possible, different "feel for the game."
+
+**Symbolic Violence**: When domination is achieved not through force but by getting the dominated to accept the dominant group's categories and values as natural and legitimate. It's violence because it maintains hierarchy and inequality. It's symbolic because it works through meaning, not coercion. Example: Getting colonized people to view their own culture as "backward" and the colonizer's as "civilized."
+
+[Bourdieu's concept of symbolic violence](https://scholarworks.wmich.edu/jssw/vol44/iss4/6/) provides "a missing link between subjective experiences and invisibilized forms of structural violence"—it explains how power operates at the level of perception and self-understanding.
+
+**How it's been applied to development:**
 
 Recent research identifies [**"epistemic domination, through which Western-centric standards enact symbolic violence in Global South contexts, enforcing compliance while silencing alternative sustainability ontologies"**](https://www.emerald.com/aaaj/article/39/9/1/1323242/Layered-fields-of-power-a-Bourdieusian-critique-of).
 
-**Habitus**: "deeply ingrained habits, skills, and dispositions that individuals acquire through their life experiences" shaped by social background.
+For instance, when development agencies evaluate projects using Western metrics (GDP growth, formal employment, property rights), they're not just measuring—they're imposing a framework that makes certain achievements count (formal sector jobs) while rendering others invisible (subsistence agriculture, communal land management, social cohesion). Communities internalize these metrics and begin to see their own practices as "backward" or "inefficient."
 
-**Symbolic violence operates through habitus at a subconscious level**, influencing how individuals perceive the world and their place within it.
+**Symbolic violence operates through habitus at a subconscious level**, influencing how individuals perceive the world and their place within it. You don't consciously decide to accept the dominant framework—it becomes your common sense.
 
 #### Applied to Próspera
 
